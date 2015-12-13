@@ -1,0 +1,28 @@
+name: hazemkallini
+favicon: null
+layout_spectrum: 0.5496726860292256
+typography_spectrum: 0.12872464442625642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.31128148129209876
+  lightness: 0.04248751886188984
+  saturation: 0.3323989035561681
+  rhythmicContrast: 0.9106512099970132
+purpose: []
